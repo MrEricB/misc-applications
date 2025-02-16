@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    /* This is the color for floor and ceiling */
+    /* TODO: replace this with tiles */
+    background: #7393B3;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #000000;
+}
